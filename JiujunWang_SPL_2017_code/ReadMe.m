@@ -2,7 +2,7 @@
 % Descripion: 
 % This source code is for our paper
 % Jiujun Wang, Yanqing Guo, Jun Guo, Xiangyang Luo, and Xiangwei Kong, 
-% "Class-aware Analysis Dictionary Learning for Pattern Classification,"?
+% "Class-aware Analysis Dictionary Learning for Pattern Classification,"
 % in IEEE Signal Processing Letters, pages 1822-1826, December 2017.
 %   -Source code version 1.0  2018/01/01 by Jiujun Wang
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
